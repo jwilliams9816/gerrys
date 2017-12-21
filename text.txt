@@ -1,0 +1,25 @@
+UI & UX
+
+“Intuitive design is how we give the user new superpowers.”
+-Jared Spool
+
+RESEARCH
+The understanding user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies.
+
+PERSONAS
+The creation of a representative user based on available data and user interviews. Though the personal details of the persona may be fiction, the information used to create the user type is not.
+
+SCENARIOS
+Scenarios describe the stories and context behind why a specific user or user group comes to your site.
+SCENARIOS
+
+CONTENT STRATEGY
+Content strategy focuses on the planning, creation, delivery, and governance of content.
+
+PROTOTYPING
+A prototype is a draft version of a product that allows you to explore your ideas and show the intention behind a feature or the overall design concept to users before development.
+
+ANALYSIS
+The collection, reporting, and analysis of website data; focusing on organizational and user goals to determine the success or failure of those goals and to drive strategy and improve the user’s experience.
+
+UI & UX 

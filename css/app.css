@@ -1,0 +1,130 @@
+    
+/********************************************/
+/* Hey there. This stylesheet is broken up 
+into the following sections.
+
+SECTION 1: GENERAL STYLES
+SECTION 2: CUSTOM CLASSES & IDS
+SECTION 3: BUTTONS
+SECTION 4: MENU AND NAV
+SECTION 5: OFF CANVAS NAV
+SECTION 6: MAIN DIVS AS THEY APPEAR IN THE HTML
+SECTION 7: FOOTER
+SECTION 8: MEDIA QUERIES - THIS SITE WAS BUILT 
+MOBILE FIRST. SO THE MEDIA QUERIES PERTAIN TO 
+MEDIUM AND LARGE SCREENS. */
+/********************************************/
+
+/********************************************/
+/* GENERAL STYLES */
+/********************************************/
+ * {
+ 	box-sizing: border-box;
+ }
+
+
+header{
+	background-image: url('../img/logo.jpg');
+	height: 15%;
+	background-repeat: no-repeat;
+	 background-position: center;
+	 margin-top: 1rem;
+
+}
+
+
+
+.hero{
+	background-image: url('../img/donut.jpg');
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 180px;
+    text-align: center;
+    color: white;
+}
+
+body {
+    font-family: 'Acme';font-size: 22px;
+}
+
+.hero h1{
+	color: white;
+	position: relative;
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+	text-decoration: none;
+    font-family: 'Doppio One';font-size: 40px;
+
+}
+
+.text{
+	color: #F74D69;
+}
+
+.text h2{
+	color: #009BBB;
+}
+
+p{
+	text-align: center;
+	
+}
+
+h3{
+	text-align: center;
+}
+
+.row{
+	margin-top: 2rem;
+}
+
+
+
+.picture{
+	background-image: url('../img/gerrysdonut.jpg');
+	height:50%;
+	background-attachment: fixed;
+	background-position:no-repeat;
+}
+
+
+
+footer{
+	background-color: #618CBE;
+
+	height: 3rem;
+	color: white;
+	text-align: center;
+}
+
+
+
+/*.text{
+	background-color: rgb(102,129,166);
+}*/
+
+
+
+
+/********************************************/
+/* MEDIA QUERIES */
+/********************************************/
+/* Medium screens */
+/* min-width 641px, medium screens */
+@media only screen and (min-width: 40.063em) {
+	.hours {
+		width: 75%;
+		margin: 25% auto 0 auto;
+	}
+} 
+
+/* min-width 1025px, large screens */
+/* Large screens */
+@media only screen and (min-width: 64.063em) { 
+
+} 
+

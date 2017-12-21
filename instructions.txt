@@ -1,0 +1,19 @@
+Open up your index.html.
+
+Stylize the header similarly, but feel free to use your own color scheme.
+
+Find image on unsplash.com of your own choice for the hero section. Resize and compress.
+
+Replace the existing quote about user experience with one that you find interesting.
+
+Change button colors including hover state. 
+
+Link the buttons to pages yet to be created. For example, the button labeled ‘RESEARCH’ should link to research.html
+
+* Use Equalizer to make these columns/container equal in height. 
+
+* Position the button at the bottom of their container.
+
+Update footer accordingly.
+
+Once completed, .zip entire folder and upload to ULEARN.
